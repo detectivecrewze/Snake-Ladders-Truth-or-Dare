@@ -1,0 +1,19 @@
+# Abaikan file sistem Python
+__pycache__/
+*.py[cod]
+
+# Abaikan folder build/exe yang besar
+build/
+dist/
+*.spec
+archive/
+
+# Abaikan file backup
+*_backup.py
+cleaner.py
+finalize_game.py
+clean_modules.py
+
+# Abaikan virtual environment (jika ada)
+venv/
+env/

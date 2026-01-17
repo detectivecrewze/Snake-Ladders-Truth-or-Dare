@@ -1,0 +1,13 @@
+2026-01-17 23:21:18,218 - SnakeLadder - INFO - Initializing Game...
+2026-01-17 23:21:18,239 - SnakeLadder - INFO - Loaded asset: images/scroll_medieval.png
+2026-01-17 23:21:18,256 - SnakeLadder - INFO - Loaded asset: images/scroll_truth.png
+2026-01-17 23:21:18,275 - SnakeLadder - INFO - Loaded asset: images/scroll_dare.png
+2026-01-17 23:21:18,282 - SnakeLadder - INFO - Loaded font: C:\Users\aldor\OneDrive\Desktop\Ular Github\assets\fonts\medieval_font.ttf
+2026-01-17 23:21:18,282 - SnakeLadder - INFO - Loaded font: C:\Users\aldor\OneDrive\Desktop\Ular Github\assets\fonts\medieval_font.ttf
+2026-01-17 23:21:18,283 - SnakeLadder - INFO - Loaded font: C:\Users\aldor\OneDrive\Desktop\Ular Github\assets\fonts\medieval_font.ttf
+2026-01-17 23:21:18,300 - SnakeLadder - INFO - Loaded asset: images/hero_1.png
+2026-01-17 23:21:18,301 - SnakeLadder - INFO - Loaded asset: images/hero_2.png
+2026-01-17 23:21:18,302 - SnakeLadder - INFO - Loaded asset: images/hero_3.png
+2026-01-17 23:21:18,302 - SnakeLadder - ERROR - Failed to load image images/hero_4.png: File not found: C:\Users\aldor\OneDrive\Desktop\Ular Github\images\hero_4.png
+2026-01-17 23:21:23,432 - SnakeLadder - INFO - Berhasil memuat tantangan Level 1
+2026-01-17 23:21:23,433 - SnakeLadder - INFO - Berhasil menyebar 40 tantangan di papan.
