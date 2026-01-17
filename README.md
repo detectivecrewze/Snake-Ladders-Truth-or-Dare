@@ -2,7 +2,7 @@
 
 A classic board game reimagined with a **Dark Medieval Fantasy** theme. This project modernizes the traditional gameplay by integrating interactive "Truth or Dare" challenges, a dynamic physics engine, and a fully customizable content system.
 
-## 📸 Screenshots
+##  Screenshots
 <img width="1905" height="1089" alt="image" src="https://github.com/user-attachments/assets/f7485cb6-fa49-427b-8ef7-035201de62e4" />
 
 
