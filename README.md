@@ -37,7 +37,7 @@ A classic board game reimagined with a **Dark Medieval Fantasy** theme. This pro
 ### Steps
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/detectivecrewze/Snake-Ladders-Truth-or-Dare)
+    git clone https://github.com/detectivecrewze/Snake-Ladders-Truth-or-Dare
     ```
 2.  Navigate to the project directory:
     ```bash
