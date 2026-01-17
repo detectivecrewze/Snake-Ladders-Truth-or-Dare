@@ -1,26 +1,23 @@
-# Snake & Ladders: Truth or Dare Edition 🐉
+# Snake & Ladders: Truth or Dare Edition 
 
 A classic board game reimagined with a **Dark Medieval Fantasy** theme. This project modernizes the traditional gameplay by integrating interactive "Truth or Dare" challenges, a dynamic physics engine, and a fully customizable content system.
 
-Built from scratch using **Python** and **Pygame**.
-
 ## 📸 Screenshots
-![Gameplay Screenshot](path/to/screenshot1.png)
-*(Replace this line with your actual screenshot link after uploading images to GitHub)*
+<img width="1905" height="1089" alt="image" src="https://github.com/user-attachments/assets/f7485cb6-fa49-427b-8ef7-035201de62e4" />
 
-## ✨ Key Features
 
-### 🎨 Visual & Audio
+
+###  Visual & Audio
 * **High-Fidelity Assets:** Custom marble tile rendering, parchment UI, and medieval-themed icons.
 * **Dynamic Animations:** Smooth token interpolation, particle effects for victory screens, and "breathing" environmental animations.
 * **Immersive Sound Design:** Context-aware audio for dice rolls, footsteps, and UI interactions.
 
-### ⚙️ Core Mechanics
+###  Core Mechanics
 * **Data-Driven Challenges:** All Truth & Dare questions are loaded from external JSON files. This allows the game content to be completely rewritten (e.g., for Education, Ice Breakers, or Party Modes) without modifying the source code.
 * **Dare Countdown System:** To increase intensity, "Dare" challenges feature an **integrated countdown timer**. Players must complete the physical task before the time runs out!
 * **Smart Sidebar:** A glass-morphism style sidebar that logs game history in real-time.
 
-## ⚔️ Gameplay Mechanics
+##  Gameplay Mechanics
 
 1.  **Rolling:** Press `Space` to roll the physics-based dice.
 2.  **Navigation:**
