@@ -41,7 +41,8 @@ A classic board game reimagined with a **Dark Medieval Fantasy** theme. This pro
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd REPO-NAME
+    cd Snake-Ladders-Truth-or-Dare
+
     ```
 3.  Install dependencies:
     ```bash
